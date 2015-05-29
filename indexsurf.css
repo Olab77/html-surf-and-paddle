@@ -1,0 +1,68 @@
+* {
+ margin:0;
+  padding:0;
+  box-sizing:borderbox;
+  font-family:helvetica;
+}
+.company-name{
+  color:black;
+  font-size:15px;
+}
+.right-side-links{
+  text-align:right;
+  color:black;
+  font-size:15px;
+  position:relative;
+  bottom:16px;
+}
+.title{
+  font-size:75px;
+  padding:80px;
+  
+}
+.subtitle{
+  font-size:13px;
+  color:black;
+  margin-left:300px;
+ position:relative;
+  bottom:85px;
+}
+.row2-header{
+  color:blue;
+  font-size:65px;
+  background-color:white;
+  margin-left:60px;
+}
+.avatar.png{
+  text-align:right;
+}
+.girl on surfbord-image{
+  position:absolute;
+  right:200px;
+}
+p{
+  font-size:15px;
+  color:grey;
+}
+.subheader{
+  font-size:50px;
+  padding:40px;
+  
+}
+.bottom comments{
+  font-size:30px;
+}
+.side bar{
+  font-size:10px;
+  text-align:left;
+  border:2px solid grey;
+}
+.headline-text{
+  font-size:60px;
+  margin-left:30px;
+}
+
+
+
+
+
